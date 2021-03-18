@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fruits</string>
+    <string name="fruit_name">Fruit Name</string>
+    <string name="detail">Detail Item</string>
+    <string name="about">About</string>
+    <string name="grid">Grid</string>
+    <string name="list">List</string>
+    <string name="priview">Priview</string>
+    <string name="share">Share</string>
+    <string name="manfaat">Manfaat</string>
+    <string name="detail_text">Detail</string>
+</resources>
